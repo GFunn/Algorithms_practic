@@ -1,5 +1,5 @@
 # Algorithms_practic
-1, binary_search: 二分搜索法，输入有序链表和要搜索的目标，输出目标的坐标
+1, binary_search: 二分搜索法，输入有序链表和要搜索的目标，输出目标的坐标\n
 2, factorial: 求阶乘，输入一个正整数，输出阶乘结果
 3, gcd: 求最大公约数，输入两个正整数，输出最大公约数
 4, rec_bi_search: 二分搜索法，以递归方式表达
